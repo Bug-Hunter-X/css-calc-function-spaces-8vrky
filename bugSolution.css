@@ -1,0 +1,1 @@
+Ensure there are no unnecessary spaces within the `calc()` function's parentheses.  For example, instead of `width: calc( 100% - 20px );`, use `width: calc(100% - 20px);` to avoid issues.
