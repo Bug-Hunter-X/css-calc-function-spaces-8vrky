@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet often overlooked, error in CSS when using the `calc()` function.  Spaces within the calculation portion can lead to unexpected behavior or complete failure of the style.  The `bug.css` file shows the incorrect usage, while `bugSolution.css` provides the correct solution.
